@@ -1,0 +1,15 @@
+Capacity_range,Altitude,RefE
+< 0.5 MW,No,0.40
+"0.5 - 6 	MW",No,0.44
+6 - 15 MW,No,0.47
+15 - 30  MW,No,0.48
+30 - 150  MW,No,0.51
+150 - 300  MW,No,0.52
+> 300  MW,No,0.53
+< 0.5 MW,Yes,0.40
+"0.5 - 6 	MW",Yes,0.44
+6 - 15 MW,Yes,0.45
+15 - 30  MW,Yes,0.45
+30 - 150  MW,Yes,0.51
+150 - 300  MW,Yes,0.52
+> 300  MW,Yes,0.53
